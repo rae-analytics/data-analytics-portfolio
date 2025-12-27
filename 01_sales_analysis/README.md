@@ -10,3 +10,14 @@ top-performing products, and category performance.
 - Created a Total_Sales column (Quantity × Price)
 - Compared revenue by product and category
 - Reviewed monthly revenue performance
+
+## Key Insights
+- Laptops generated the highest revenue despite lower sales volume.
+- Electronics category outperforms Accessories.
+- February had higher total revenue than January (optional if you include month chart).
+
+## Total Sales by Product
+![Total Sales by Product](product_chart.png)
+
+## Total Sales by Category
+![Total Sales by Category](category_chart.png)
