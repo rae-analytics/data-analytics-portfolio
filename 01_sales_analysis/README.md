@@ -14,7 +14,7 @@ top-performing products, and category performance.
 ## Key Insights
 - Laptops generated the highest revenue despite lower sales volume.
 - Electronics category outperforms Accessories.
-- February had higher total revenue than January (optional if you include month chart).
+- February had higher total revenue than January.
 
 ## Total Sales by Product
 ![Total Sales by Product](product_chart.png)
