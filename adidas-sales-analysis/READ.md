@@ -1,19 +1,50 @@
 # Adidas Sales Analysis
 
 ## Overview
-This project analyzes Adidas sales data to uncover insights related to revenue performance, profitability, sales channels, regional trends, and product-level behavior. The focus is on translating data into actionable business insights.
+This project analyzes Adidas sales data to uncover insights on revenue, profitability, sales channels, regional trends, and product-level performance. The goal is to translate raw sales data into actionable business insights for strategic and operational decision-making.
 
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Calculated Fields, Charts)
 
 ## Business Questions
-- What is the total revenue by product category?
+- Which product categories generate the most revenue?
 - How do in-store and outlet sales compare?
-- Which categories and products generate the highest profit?
+- Which products and categories generate the highest profit?
 - How do sales trends change over time?
-- What inventory insights can be derived from sales velocity?
+- What insights can be drawn from sales velocity and inventory turnover?
 
-## Repository Structure
-- `analysis.xlsx` – Data, pivot tables, and calculations  
-- `insights.md` – Detailed business insights (Questions 1–12)  
-- `charts/` – Visualizations supporting the analysis
+## Key Insights
+Detailed analysis and insights for all 12 key questions can be found in [insights.md](insights.md).
+
+## Key Visuals
+
+### 1. Total Revenue by Product Category
+![Revenue by Category](charts/revenue_by_category.png)
+
+### 2. In-store vs Outlet Sales Performance
+![Sales Channel Comparison](charts/sales_channel_comparison.png)
+
+### 3. Average Operating Margin by Category
+![Margin by Category](charts/margin_by_category.png)
+
+### 4. Revenue Trends Over Time
+![Revenue Trend Over Time](charts/revenue_trend_over_time.png)
+
+### 5. Regional Contribution to Sales vs Profit
+![Regional Sales vs Profit](charts/regional_sales_profit.png)
+
+### 6. Men’s Footwear Subcategory Performance
+![Mens Footwear Revenue](charts/mens_footwear_revenue.png)
+
+### 7. Women’s Footwear Segment Comparison
+![Womens Athletic vs Street](charts/womens_athletic_vs_street.png)
+
+### 8. Average Units Sold per Day by Category
+![Average Units per Day](charts/average_units_per_day.png)
+
+---
+
+## Repository Contents
+- `insights.md` – Full 12-question business insights  
+- `analysis.xlsx` – Excel file containing raw data, pivot tables, and charts  
+- `charts/` – Folder containing all exported visualizations
