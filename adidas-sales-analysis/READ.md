@@ -33,13 +33,10 @@ Detailed analysis and insights for all 12 key questions can be found in [insight
 ### 5. Regional Contribution to Sales vs Profit
 ![Regional Sales vs Profit](charts/regional_sales_profit.png)
 
-### 6. Men’s Footwear Subcategory Performance
-![Mens Footwear Revenue](charts/mens_footwear_revenue.png)
-
-### 7. Women’s Footwear Segment Comparison
+### 6. Women’s Footwear Segment Comparison
 ![Womens Athletic vs Street](charts/womens_athletic_vs_street.png)
 
-### 8. Average Units Sold per Day by Category
+### 7. Average Units Sold per Day by Category
 ![Average Units per Day](charts/average_units_per_day.png)
 
 ---
