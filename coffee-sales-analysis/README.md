@@ -47,7 +47,7 @@ The company is heavily dependent on the U.S. market. Geographic diversification 
 
 ---
 
-# 👑 Top 5 Customers by Revenue
+# 👑 Top Customers by Revenue
 
 ![Top Customers](Top_customers.png)
 
