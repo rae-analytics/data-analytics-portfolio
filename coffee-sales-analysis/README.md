@@ -34,7 +34,7 @@ Revenue distribution is relatively balanced across three major product lines, re
 
 # 🌍 Revenue by Country
 
-![Revenue by Country](Total_sale_by_country.png)
+![Revenue by Country](Revenue_by_country.png)
 
 ### Insight
 
