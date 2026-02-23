@@ -19,7 +19,7 @@ The objective is to generate actionable insights to support strategic sales and 
 
 # 📈 Revenue by Coffee Type
 
-![Revenue by Coffee Type](images/revenue_by_coffee_type.png)
+![Revenue by Coffee Type](Coffee_sales_trend.png)
 
 ### Insight
 
@@ -34,7 +34,7 @@ Revenue distribution is relatively balanced across three major product lines, re
 
 # 🌍 Revenue by Country
 
-![Revenue by Country](images/revenue_by_country.png)
+![Revenue by Country](Total_sale_by_country.png)
 
 ### Insight
 
@@ -49,7 +49,7 @@ The company is heavily dependent on the U.S. market. Geographic diversification 
 
 # 👑 Top 5 Customers by Revenue
 
-![Top Customers](images/top_customers.png)
+![Top Customers](Top_customers.png)
 
 | Customer | Revenue ($) |
 |-----------|-------------|
